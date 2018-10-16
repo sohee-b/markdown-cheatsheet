@@ -13,5 +13,5 @@
 ###### H6 `###### H6`
 
 ## Heading Anchor
-1. Create a header - `# Example`
-2. Create a link - `[Example](#example)`
+1. Create a header - `# This Is An Example`
+2. Create a link - `[Example](#this-is-an-example)`
