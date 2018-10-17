@@ -49,8 +49,8 @@ guard let a = b else {
 
 ---
 ### To Be Added
-- bold, italics
-- line break, whitespace
+- typographical emphasis(bold, italics, underline, strikethrough)
+- whitespace (line break, space)
 - collapsible sections
 - links
 - photos
