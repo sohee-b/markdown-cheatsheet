@@ -4,22 +4,20 @@
 Includes "non-official" specs of the Markdown language, supported by some of the markdown renderers.
 
 ### Table of Contents
-- [Code Blocks](#code-blocks)
+- [Code](#code)
 - [Header](#header)
 - [Heading Anchor](#heading-anchor)
 ---
-## Code Blocks
-#### Single line <br/>
-`line 1` - `` `line 1` ``
-#### Multiple lines <br/>
+## Code 
+#### Inline Code <br/>
+`inline code` - `` `inline code` ``
+#### Code Block <br/>
 ```
-line 1
-line 2
+code block
 ```
 ````
 ```
-line 1
-line 2
+code block
 ```
 ````
 #### Language syntax highlighting <br/>
