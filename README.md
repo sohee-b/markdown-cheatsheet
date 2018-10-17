@@ -45,4 +45,4 @@ guard let a = b else {
 
 ## Heading Anchor
 1. Create a header - `# This Is An Example`
-2. Create a link - `[Example](#this-is-an-example)`
+2. Create a link for the header - `[Example](#this-is-an-example)`
