@@ -1,9 +1,42 @@
 
 
+### Note
+Includes "non-official" specs of the Markdown language, supported by some of the markdown renderers.
+
 ### Table of Contents
+- [Code Blocks](#code-blocks)
 - [Header](#header)
 - [Heading Anchor](#heading-anchor)
 ---
+## Code Blocks
+#### Single line <br/>
+`line 1` - `` `line 1` ``
+#### Multiple lines <br/>
+```
+line 1
+line 2
+```
+````
+```
+line 1
+line 2
+```
+````
+#### Language syntax highlighting <br/>
+```swift 
+guard let a = b else {
+   return 
+}
+```
+
+````
+```swift 
+guard let a = b else {
+   return 
+}
+```
+````
+
 ## Header
 # H1 `# H1`
 ## H2 `## H2`
