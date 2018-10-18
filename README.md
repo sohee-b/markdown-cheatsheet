@@ -7,6 +7,7 @@ Includes "non-official" specs of the Markdown language, supported by some of the
 - [Code](#code)
 - [Header](#header)
 - [Heading Anchor](#heading-anchor)
+- [Typographical Emphasis](#typographical-emphasis)
 ---
 ## Code 
 #### Inline Code <br/>
@@ -47,9 +48,19 @@ guard let a = b else {
 1. Create a header - `# This Is An Example`
 2. Create a link for the header - `[Example](#this-is-an-example)`
 
+## Typographical Emphasis
+#### **Bold** 
+`**Bold**` or `__Bold__`
+#### *Italic* 
+`*Italic*` or `_Italic_`
+#### **_Bold & Italic_** 
+`**_Bold & Italic_**`
+#### ~~Strikethrough~~ 
+`~~Strikethrough~~`
+
+
 ---
 ### To Be Added
-- typographical emphasis(bold, italics, underline, strikethrough)
 - whitespace (line break, space)
 - collapsible sections
 - links
