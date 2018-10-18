@@ -1,5 +1,3 @@
-
-
 ### Note
 Includes "non-official" specs of the Markdown language, supported by some markdown renderers.
 
@@ -9,7 +7,7 @@ Includes "non-official" specs of the Markdown language, supported by some markdo
 - [Heading Anchor](#heading-anchor)
 - [Typographical Emphasis](#typographical-emphasis)
 ---
-# Code 
+## Code 
 ### Inline Code <br/>
 `inline code` - `` `inline code` ``
 ### Code Block <br/>
@@ -34,21 +32,27 @@ guard let a = b else {
    return 
 }
 ```
-````
+````  
 
-# Header
+<br/>
+
+## Header
 # H1 `# H1`
 ## H2 `## H2`
 ### H3 `### H3`
 #### H4 `#### H4`
 ##### H5 `##### H5`
-###### H6 `###### H6`
+###### H6 `###### H6`  
 
-# Heading Anchor
+<br/>
+
+## Heading Anchor
 1. Create a header - `# This Is An Example`
-2. Create a link for the header - `[Example](#this-is-an-example)`
+2. Create a link for the header - `[Example](#this-is-an-example)`  
 
-# Typographical Emphasis
+<br/>
+
+## Typographical Emphasis
 ### **Bold** 
 `**Bold**` or `__Bold__`
 ### *Italic* 
