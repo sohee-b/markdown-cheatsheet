@@ -1,7 +1,7 @@
 
 
 ### Note
-Includes "non-official" specs of the Markdown language, supported by some of the markdown renderers.
+Includes "non-official" specs of the Markdown language, supported by some markdown renderers.
 
 ### Table of Contents
 - [Code](#code)
