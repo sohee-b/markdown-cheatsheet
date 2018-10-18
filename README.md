@@ -61,6 +61,8 @@ guard let a = b else {
 `**_Bold & Italic_**`
 ### ~~Strikethrough~~ 
 `~~Strikethrough~~`
+### <ins>Underline</ins>
+`<ins>Underline</ins>`
 
 
 ---
