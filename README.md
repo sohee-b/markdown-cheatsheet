@@ -68,3 +68,4 @@ guard let a = b else {
 - separators
 - list(bulleted, numbered, checkbox)
 - quotes
+- emoji
