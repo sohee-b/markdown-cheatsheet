@@ -9,10 +9,10 @@ Includes "non-official" specs of the Markdown language, supported by some markdo
 - [Heading Anchor](#heading-anchor)
 - [Typographical Emphasis](#typographical-emphasis)
 ---
-## Code 
-#### Inline Code <br/>
+# Code 
+### Inline Code <br/>
 `inline code` - `` `inline code` ``
-#### Code Block <br/>
+### Code Block <br/>
 ```
 code block
 ```
@@ -21,7 +21,7 @@ code block
 code block
 ```
 ````
-#### Language syntax highlighting <br/>
+### Language syntax highlighting <br/>
 ```swift 
 guard let a = b else {
    return 
@@ -36,7 +36,7 @@ guard let a = b else {
 ```
 ````
 
-## Header
+# Header
 # H1 `# H1`
 ## H2 `## H2`
 ### H3 `### H3`
@@ -44,18 +44,18 @@ guard let a = b else {
 ##### H5 `##### H5`
 ###### H6 `###### H6`
 
-## Heading Anchor
+# Heading Anchor
 1. Create a header - `# This Is An Example`
 2. Create a link for the header - `[Example](#this-is-an-example)`
 
-## Typographical Emphasis
-#### **Bold** 
+# Typographical Emphasis
+### **Bold** 
 `**Bold**` or `__Bold__`
-#### *Italic* 
+### *Italic* 
 `*Italic*` or `_Italic_`
-#### **_Bold & Italic_** 
+### **_Bold & Italic_** 
 `**_Bold & Italic_**`
-#### ~~Strikethrough~~ 
+### ~~Strikethrough~~ 
 `~~Strikethrough~~`
 
 
