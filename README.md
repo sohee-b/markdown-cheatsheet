@@ -3,23 +3,23 @@ Includes "non-official" specs of the Markdown language, supported by some markdo
 
 ### Table of Contents
 - [Code](#code)
-- [Header](#header)
+- [Headers](#headers)
 - [Heading Anchor](#heading-anchor)
 - [Typographical Emphasis](#typographical-emphasis)
+- [Quote](#quote)
 ---
 ## Code 
-### Inline Code <br/>
-`inline code` - `` `inline code` ``
-### Code Block <br/>
-```
-code block
-```
+### `Inline Code` <br/>
+`` `inline code` ``
+
+### ```Code Block```
+
 ````
 ```
 code block
 ```
 ````
-### Language syntax highlighting <br/>
+### Language syntax highlighting
 ```swift 
 guard let a = b else {
    return 
@@ -36,13 +36,19 @@ guard let a = b else {
 
 <br/>
 
-## Header
-# H1 `# H1`
-## H2 `## H2`
-### H3 `### H3`
-#### H4 `#### H4`
-##### H5 `##### H5`
-###### H6 `###### H6`  
+## Headers
+# H1 
+`# H1`
+## H2 
+`## H2`
+### H3 
+`### H3`
+#### H4 
+`#### H4`
+##### H5 
+`##### H5`
+###### H6 
+`###### H6`  
 
 <br/>
 
@@ -63,6 +69,15 @@ guard let a = b else {
 `~~Strikethrough~~`
 ### <ins>Underline</ins>
 `<ins>Underline</ins>`
+
+## Quotes
+> ### quotes <br/>
+
+`> quotes`
+ 
+>>> ### nested quotes
+
+`>>> nested quotes`
 
 
 ---
