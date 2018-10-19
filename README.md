@@ -34,7 +34,7 @@ guard let a = b else {
 ```
 ````  
 
-<br/>
+<br/><br/>
 
 ## Headers
 # H1 
@@ -50,13 +50,13 @@ guard let a = b else {
 ###### H6 
 `###### H6`  
 
-<br/>
+<br/><br/>
 
 ## Heading Anchor
 1. Create a header - `# This Is An Example`
 2. Create a link for the header - `[Example](#this-is-an-example)`  
 
-<br/>
+<br/><br/>
 
 ## Typographical Emphasis
 ### **Bold** 
@@ -69,6 +69,8 @@ guard let a = b else {
 `~~Strikethrough~~`
 ### <ins>Underline</ins>
 `<ins>Underline</ins>`
+
+<br/><br/>
 
 ## Quotes
 > ### quotes <br/>
