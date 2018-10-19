@@ -90,5 +90,4 @@ guard let a = b else {
 - photos
 - separators
 - list(bulleted, numbered, checkbox)
-- quotes
 - emoji
