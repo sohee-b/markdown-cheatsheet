@@ -7,7 +7,7 @@ Includes "non-official" specs of the Markdown language, supported by some markdo
 - [Headers](#headers)
 - [Heading Anchor](#heading-anchor)
 - [Typographical Emphasis](#typographical-emphasis)
-- [Quote](#quote)
+- [Quotes](#quotes)
 ---
 ## Code 
 ### `Inline Code` <br/>
@@ -74,13 +74,13 @@ guard let a = b else {
 <br/><br/>
 
 ## Quotes
-> ### quotes <br/>
+> ### quote <br/>
 
-`> quotes`
- 
->>> ### nested quotes
+`> quote`
 
-`>>> nested quotes`
+>>> ### nested quote
+
+`>>> nested quote`
 
 
 ---
