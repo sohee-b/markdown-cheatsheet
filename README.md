@@ -1,5 +1,11 @@
 
-### Note
+<p align="center">
+<img src="https://user-images.githubusercontent.com/35065894/47264229-54ff0f80-d54d-11e8-86fa-115804f19124.png" width="200"  />
+   </p>
+   <h2 align="center"></h2>
+ 
+ 
+### Note 
 Includes "non-official" specs of the Markdown language, supported by some markdown renderers.
 
 ### Table of Contents
@@ -8,7 +14,9 @@ Includes "non-official" specs of the Markdown language, supported by some markdo
 - [Heading Anchor](#heading-anchor)
 - [Typographical Emphasis](#typographical-emphasis)
 - [Quotes](#quotes)
+
 ---
+
 ## Code 
 ### `Inline Code` <br/>
 `` `inline code` ``
