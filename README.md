@@ -10,6 +10,7 @@ Includes "non-official" specs of the Markdown language, supported by some markdo
 
 ### Table of Contents
 - [Code](#code)
+- [Collapsible Sections](#collapsible-sections)
 - [Headers](#headers)
 - [Heading Anchor](#heading-anchor)
 - [Typographical Emphasis](#typographical-emphasis)
@@ -42,6 +43,21 @@ guard let a = b else {
 }
 ```
 ````  
+
+<br/><br/>
+
+## Collapsible Sections
+**<details><summary>Click To Expand</summary>**<p>
+- Add details
+</p></details>
+
+<br/>
+
+```
+**<details><summary>Click To Expand</summary>**<p>
+- Add details
+</p></details>
+```
 
 <br/><br/>
 
@@ -96,7 +112,6 @@ guard let a = b else {
 ---
 ### To Be Added
 - whitespace (line break, space)
-- collapsible sections
 - links
 - photos
 - separators
