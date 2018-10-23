@@ -122,6 +122,5 @@ guard let a = b else {
 - whitespace (line break, space)
 - links
 - photos
-- separators
 - list(bulleted, numbered, checkbox)
 - emoji
