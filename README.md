@@ -13,6 +13,7 @@ Includes "non-official" specs of the Markdown language, supported by some markdo
 - [Collapsible Sections](#collapsible-sections)
 - [Headers](#headers)
 - [Heading Anchor](#heading-anchor)
+- [Separator](#separator)
 - [Typographical Emphasis](#typographical-emphasis)
 - [Quotes](#quotes)
 
@@ -82,6 +83,13 @@ guard let a = b else {
 `#### A Header`  
 #### [An anchor for the header](#a-header)  
 `#### [An anchor for the header](#a-header)`  
+
+<br/><br/>
+
+## Separator
+---
+`---`
+
 
 <br/><br/>
 
