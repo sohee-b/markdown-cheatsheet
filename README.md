@@ -64,9 +64,9 @@ guard let a = b else {
 <br/><br/>
 
 ## Emojis
-### :sunglasses: :+1:  
+### :sunglasses: :+1: :grin: :tada: :heart:
 
-`:sunglasses: :+1:`
+`:sunglasses: :+1: :grin: :tada: :heart:`
 
 ### FYI
 [Complete list of emojis](https://gist.github.com/rxaviers/7360908)
