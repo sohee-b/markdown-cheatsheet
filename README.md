@@ -10,7 +10,8 @@ Includes "non-official" specs of the Markdown language, supported by some markdo
 
 ### Table of Contents
 - [Code](#code)
-- [Collapsible Sections](#collapsible-sections)
+- [Collapsible Section](#collapsible-section)
+- [Emojis](#emojis)
 - [Headers](#headers)
 - [Heading Anchor](#heading-anchor)
 - [Separator](#separator)
@@ -47,7 +48,7 @@ guard let a = b else {
 
 <br/><br/>
 
-## Collapsible Sections
+## Collapsible Section
 **<details><summary>Click To Expand</summary>**<p>
 - Add details
 </p></details>
@@ -59,6 +60,17 @@ guard let a = b else {
 - Add details
 </p></details>
 ```
+
+<br/><br/>
+
+## Emojis
+### :sunglasses: :+1:  
+
+`:sunglasses: :+1:`
+
+### FYI
+[Complete list of emojis](https://gist.github.com/rxaviers/7360908)
+
 
 <br/><br/>
 
