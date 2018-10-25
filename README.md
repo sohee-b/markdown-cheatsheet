@@ -1,4 +1,3 @@
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/35065894/47264229-54ff0f80-d54d-11e8-86fa-115804f19124.png" width="200"  />
    </p>
@@ -14,6 +13,7 @@ Includes "non-official" specs of the Markdown language, supported by some markdo
 - [Emojis](#emojis)
 - [Headers](#headers)
 - [Heading Anchor](#heading-anchor)
+- [Lists](#lists)
 - [Separator](#separator)
 - [Typographical Emphasis](#typographical-emphasis)
 - [Quotes](#quotes)
@@ -98,6 +98,45 @@ guard let a = b else {
 
 <br/><br/>
 
+## Lists
+- Bulleted
+- List
+```
+- Bulleted
+  - List
+```
+
+<br/>
+
+1. Numbered
+2. List
+```
+1. Numbered
+2. List
+```
+
+<br/>
+
+- [x] Checkbox
+- [ ] List
+```
+- [x] Checkbox
+- [ ] List
+```
+
+<br/>
+
+- Nested List
+  1. Nested List
+      - [x] Nested List
+```
+- Nested List
+  1. Nested List
+      - [x] Nested List
+```
+
+<br/><br/>
+
 ## Separator
 ---
 `---`
@@ -134,5 +173,3 @@ guard let a = b else {
 - whitespace (line break, space)
 - links
 - photos
-- list(bulleted, numbered, checkbox)
-- emoji
