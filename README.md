@@ -157,7 +157,9 @@ guard let a = b else {
 
 ## Separator
 ---
-`---`
+```
+---
+```
 
 
 <br/><br/>
