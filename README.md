@@ -13,6 +13,7 @@ Includes "non-official" specs of the Markdown language, supported by some markdo
 - [Emojis](#emojis)
 - [Headers](#headers)
 - [Heading Anchor](#heading-anchor)
+- [Link](#link)
 - [Lists](#lists)
 - [Separator](#separator)
 - [Typographical Emphasis](#typographical-emphasis)
@@ -112,6 +113,14 @@ guard let a = b else {
 #### [An anchor for the header](#a-header)  
 ```
 #### [An anchor for the header](#a-header)
+```
+
+<br/><br/>
+
+## Link
+[markdown-cheatsheet](https://github.com/sohee-b/markdown-cheatsheet)
+```
+[markdown-cheatsheet](https://github.com/sohee-b/markdown-cheatsheet)
 ```
 
 <br/><br/>
