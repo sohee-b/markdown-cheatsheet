@@ -13,6 +13,7 @@ Includes "non-official" specs of the Markdown language, supported by some markdo
 - [Emojis](#emojis)
 - [Headers](#headers)
 - [Heading Anchor](#heading-anchor)
+- [Image](#image)
 - [Link](#link)
 - [Lists](#lists)
 - [Separator](#separator)
@@ -117,6 +118,14 @@ guard let a = b else {
 
 <br/><br/>
 
+## Image
+![alt-text](https://user-images.githubusercontent.com/35065894/47775181-550fc400-dd32-11e8-8892-4e83a28b5031.png)
+```
+![alt-text](https://user-images.githubusercontent.com/35065894/47775181-550fc400-dd32-11e8-8892-4e83a28b5031.png)
+```
+
+<br/><br/>
+
 ## Link
 [markdown-cheatsheet](https://github.com/sohee-b/markdown-cheatsheet)
 ```
@@ -212,4 +221,3 @@ guard let a = b else {
 ### To Be Added
 - whitespace (line break, space)
 - links
-- photos
