@@ -16,9 +16,10 @@ Includes "non-official" specs of the Markdown language, supported by some markdo
 - [Image](#image)
 - [Link](#link)
 - [Lists](#lists)
+- [Quotes](#quotes)
 - [Separator](#separator)
 - [Typographical Emphasis](#typographical-emphasis)
-- [Quotes](#quotes)
+- [Whitespaces](#whitespaces)
 
 ---
 
@@ -173,12 +174,24 @@ guard let a = b else {
 
 <br/><br/>
 
+## Quotes
+> ### quote <br/>
+```
+> quote
+```
+
+>>> ### nested quote
+```
+>>> nested quote
+```
+
+<br/><br/>
+
 ## Separator
 ---
 ```
 ---
 ```
-
 
 <br/><br/>
 
@@ -206,18 +219,11 @@ guard let a = b else {
 
 <br/><br/>
 
-## Quotes
-> ### quote <br/>
+## Whitespaces
+### Newline
+Add two spaces after a line
+### Whitespace
 ```
-> quote
-```
-
->>> ### nested quote
-```
->>> nested quote
+&nbsp;
 ```
 
----
-### To Be Added
-- whitespace (line break, space)
-- links
