@@ -230,3 +230,4 @@ Add two spaces after a line
 ---
 ## To Be Added
 - table
+- resized image
